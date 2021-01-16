@@ -1,4 +1,4 @@
-# Propecto-DAW1
+# Proyecto-DAW1
 # Práctica 5: Eventos, Objetos, Arrays, MVC, JSON, Boolean Y Storage API
 
 ## Funciones
